@@ -10,7 +10,7 @@ module.exports = {
     { name: 'beta', prerelease: true },
     { name: 'alpha', prerelease: true },
   ],
-  repositoryUrl: 'git@github.com:deriv-com/quill-icons.git',
+  repositoryUrl: 'git@github.com:adrienne-deriv/quill-icons.git',
   plugins: [
     [
       '@semantic-release/commit-analyzer',
